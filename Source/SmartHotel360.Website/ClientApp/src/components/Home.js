@@ -50,7 +50,7 @@ class Home extends Component {
             </div>
             <Search />
             <section className='sh-infogrid'>
-                <p className='sh-home-title'>The smart experience from SmartHotel 360</p>
+                <p className='sh-home-title'>The smart experience</p>
                 <article className='sh-infogrid-row'>
                     <div className='sh-infogrid-column'>
                         <i className='sh-infogrid-icon icon-sh-smart-check'></i>
